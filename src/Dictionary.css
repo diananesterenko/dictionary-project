@@ -1,0 +1,6 @@
+.inputKeyword {
+  border: 3px solid rgb(255, 0, 102);
+  border-radius: 26px;
+
+  box-shadow: 4px 4px 5px 3px rgba(0, 0, 0, 0.268);
+}
