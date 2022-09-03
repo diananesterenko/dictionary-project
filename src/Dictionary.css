@@ -1,6 +1,7 @@
 .inputKeyword {
   border: 3px solid rgb(255, 0, 102);
   border-radius: 26px;
-
+  background-color: rgba(51, 51, 51, 0.383);
   box-shadow: 4px 4px 5px 3px rgba(0, 0, 0, 0.268);
+  padding-left: 20px;
 }
