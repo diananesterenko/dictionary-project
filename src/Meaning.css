@@ -3,4 +3,8 @@
 }
 .meaning {
   text-align: left;
+  margin-left: 30px;
+}
+.meanings {
+  margin-left: 80px;
 }
